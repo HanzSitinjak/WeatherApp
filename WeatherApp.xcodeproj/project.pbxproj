@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8625E0102CD387EE00F45933 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8625E00F2CD387ED00F45933 /* README.md */; };
 		8684B2002CB8E6520075DEB1 /* scrollBoxCustom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8684B1FF2CB8E6520075DEB1 /* scrollBoxCustom.swift */; };
 		86ADB6382CB7D09500028F81 /* homePageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86ADB6372CB7D09500028F81 /* homePageVC.swift */; };
 		86DA1FC52CB66B0700479A08 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86DA1FC42CB66B0700479A08 /* AppDelegate.swift */; };
@@ -48,6 +49,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8625E00F2CD387ED00F45933 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8684B1FF2CB8E6520075DEB1 /* scrollBoxCustom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scrollBoxCustom.swift; sourceTree = "<group>"; };
 		86ADB6372CB7D09500028F81 /* homePageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homePageVC.swift; sourceTree = "<group>"; };
 		86DA1FC12CB66B0700479A08 /* WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -142,6 +144,7 @@
 				86DA1FCA2CB66B0700479A08 /* Main.storyboard */,
 				86DA1FCF2CB66B0A00479A08 /* LaunchScreen.storyboard */,
 				86DA1FD22CB66B0A00479A08 /* Info.plist */,
+				8625E00F2CD387ED00F45933 /* README.md */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";
@@ -299,6 +302,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8625E0102CD387EE00F45933 /* README.md in Resources */,
 				86DA1FF92CB66E7E00479A08 /* Poppins-SemiBold.ttf in Resources */,
 				86DA1FD12CB66B0A00479A08 /* LaunchScreen.storyboard in Resources */,
 				86DA1FCE2CB66B0A00479A08 /* Assets.xcassets in Resources */,
